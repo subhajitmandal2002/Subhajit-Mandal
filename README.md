@@ -1,5 +1,4 @@
 [![MasterHead](https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=ecf05e478pzrkqc96kzgca89j77ozpmoiml8flflaqf18ejz&rid=giphy.gif&ct=g)](https://rishavchanda.io)
-[![MasterHead](https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47fh2hm4q8n0obq99bqcs13amav95aab8ub8tr5kkx&rid=giphy.gif&ct=g)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Subhajit Mandal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
